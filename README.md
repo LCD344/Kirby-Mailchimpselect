@@ -10,8 +10,11 @@ c::set('mailchimpAPI', "Your Mailchimp Key");
 2) In your blueprint file add the next lines
 
 fields:
+
   mailchimplist:
+  
     label: Mail Chimp List
+    
     type: mailchimpselect
     
 Then you will have the list of all the mailchimp lists available to you.
