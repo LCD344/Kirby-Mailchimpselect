@@ -3,11 +3,13 @@ A select field for kirby cms that lists your mailchimp lists in a select field
 
 How to use :
 
-1) In your config.php add 
+1) Unzip the files into fields/mailchimpselect directory 
+
+2) In your config.php add 
 
 c::set('mailchimpAPI', "Your Mailchimp Key");
 
-2) In your blueprint file add the next lines
+3) In your blueprint file add the next lines
 
     fields:
       mailchimplist:
