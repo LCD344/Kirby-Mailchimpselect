@@ -1,3 +1,5 @@
+This code is no longer being maintained.
+
 # Kirby-Mailchimpselect
 A select field for kirby cms that lists your mailchimp lists in a select field
 
